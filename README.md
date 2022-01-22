@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @havandung744
-- 👀 I’m interested in back-end (nodejs and mongodb)
+- 👀 I’m interested in back-end (php laravel mysql, nodejs, mongodb)
 - 🌱 I’m currently learning Hanoi Pedagogical University
 - 💞️ I’m looking to collaborate on !!!
 - 📫 How to reach me email :   hdung72267@gmail.com 
