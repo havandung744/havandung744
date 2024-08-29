@@ -5,7 +5,7 @@ I'm a dedicated back-end developer with a strong focus on:
 - **.NET**
 - **ASP.NET Core**
 - **Blazor**
-- **Node.js**
+- **Vue.js**
   
 ## Current Endeavors
 🌱 I graduated from Hanoi University of Education, where I continuously expanded my expertise in software development.
